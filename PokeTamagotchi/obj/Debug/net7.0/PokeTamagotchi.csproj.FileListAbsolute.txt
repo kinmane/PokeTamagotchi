@@ -1,0 +1,5 @@
+C:\Users\gabriel.rorato\Documents\GitHub\PokeTamagotchi\PokeTamagotchi\obj\Debug\net7.0\PokeTamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.rorato\Documents\GitHub\PokeTamagotchi\PokeTamagotchi\obj\Debug\net7.0\PokeTamagotchi.AssemblyInfoInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\PokeTamagotchi\PokeTamagotchi\obj\Debug\net7.0\PokeTamagotchi.AssemblyInfo.cs
+C:\Users\gabriel.rorato\Documents\GitHub\PokeTamagotchi\PokeTamagotchi\obj\Debug\net7.0\PokeTamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.rorato\Documents\GitHub\PokeTamagotchi\PokeTamagotchi\obj\Debug\net7.0\PokeTamagotchi.csproj.AssemblyReference.cache
